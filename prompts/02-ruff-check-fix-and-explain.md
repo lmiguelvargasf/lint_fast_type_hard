@@ -1,0 +1,1 @@
+Run `uvx ruff check --fix` and then `uvx ruff check --fix --unsafe-fixes`, explaining after each run what was fixed.
