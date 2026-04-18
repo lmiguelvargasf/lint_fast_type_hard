@@ -5,8 +5,7 @@ A **PyTexas 2026** talk on modern, ultra-fast Python tooling for formatting, lin
 Materials and demos for _Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling_.
 
 **Speaker:** [Miguel Vargas](https://www.linkedin.com/in/lmiguelvargasf/)
-
-[🎤 PyTexas 2026](https://www.pytexas.org/2026/) · [🖼 Slides](https://gamma.app/docs/Lint-Fast-Type-Hard-eomgpjv7qo9w9f2) · [👤 LinkedIn](https://www.linkedin.com/in/lmiguelvargasf/)
+**Event:** [PyTexas 2026](https://www.pytexas.org/2026/) · **Slides:** [Lint Fast, Type Hard](https://gamma.app/docs/Lint-Fast-Type-Hard-eomgpjv7qo9w9f2)
 
 This repository includes the demo files and prompts used to show how modern tools such as `ruff`, `ty`, and `uv` can make code quality faster to adopt across local development, pre-commit workflows, and CI.
 
@@ -20,11 +19,8 @@ This talk explores how modern Python tooling turns code quality into a speed adv
 - `ty_demo.py`: demo file for static type checking with Ty.
 - `prompts/`: prompts used during the walkthroughs and live demos.
 
-## References 🔗
+## Tooling References 🔗
 
-- 🎤 Event: [PyTexas 2026](https://www.pytexas.org/2026/)
-- 🖼 Slides: [Lint Fast, Type Hard](https://gamma.app/docs/Lint-Fast-Type-Hard-eomgpjv7qo9w9f2)
-- 👤 Speaker: [Miguel Vargas](https://www.linkedin.com/in/lmiguelvargasf/)
 - 🛠 Astral: [astral.sh](https://astral.sh/)
 - ⚡ Ruff: [docs.astral.sh/ruff](https://docs.astral.sh/ruff/)
 - ✅ Ty: [docs.astral.sh/ty](https://docs.astral.sh/ty/)
