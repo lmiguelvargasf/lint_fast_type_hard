@@ -1,1 +1,1 @@
-Run `uvx ruff check --fix` and then `uvx ruff check --fix --unsafe-fixes`, explaining after each run what was fixed.
+Run `uvx ruff check --fix ruff_demo.py`, then `uvx ruff check --fix --unsafe-fixes ruff_demo.py`. After each run, explain what it fixed.
