@@ -25,3 +25,10 @@ This talk explores how modern Python tooling turns code quality into a speed adv
 - ⚡ Ruff: [docs.astral.sh/ruff](https://docs.astral.sh/ruff/)
 - ✅ Ty: [docs.astral.sh/ty](https://docs.astral.sh/ty/)
 - 📦 uv: [docs.astral.sh/uv](https://docs.astral.sh/uv/)
+
+## Agent Skills 🤖
+
+- 🧩 Astral skills repository: [astral-sh/claude-code-plugins](https://github.com/astral-sh/claude-code-plugins)
+- ⚡ Ruff skill: [skills.sh/astral-sh/claude-code-plugins/ruff](https://skills.sh/astral-sh/claude-code-plugins/ruff)
+- ✅ Ty skill: [skills.sh/astral-sh/claude-code-plugins/ty](https://skills.sh/astral-sh/claude-code-plugins/ty)
+- 📦 uv skill: [skills.sh/astral-sh/claude-code-plugins/uv](https://skills.sh/astral-sh/claude-code-plugins/uv)
