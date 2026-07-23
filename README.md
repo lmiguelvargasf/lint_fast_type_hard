@@ -1,11 +1,11 @@
 # Lint Fast, Type Hard ⚡
 
-A **PyTexas 2026** talk on modern, ultra-fast Python tooling for formatting, linting, and type checking.
+A **PyCon Colombia 2026** talk on modern, ultra-fast Python tooling for formatting, linting, and type checking.
 
 Materials and demos for _Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling_.
 
 **Speaker:** [Miguel Vargas](https://www.linkedin.com/in/lmiguelvargasf/)
-**Event:** [PyTexas 2026](https://www.pytexas.org/2026/) · **Slides:** [Lint Fast, Type Hard](https://gamma.app/docs/Lint-Fast-Type-Hard-eomgpjv7qo9w9f2)
+**Event:** [PyCon Colombia 2026](https://2026.pycon.co) · **Talk:** [Elevate your code quality in Python with modern, ultra-fast tooling](https://2026.pycon.co/speakers/miguel-vargas/) · **Slides:** [Lint Fast, Type Hard](https://gamma.app/docs/Lint-Fast-Type-Hard-PyCon-Colombia-2026-e56rcq4mjnzcgvl?mode=doc)
 
 This repository includes the demo files and prompts used to show how modern tools such as `ruff`, `ty`, and `uv` can make code quality faster to adopt across local development, pre-commit workflows, and CI.
 
