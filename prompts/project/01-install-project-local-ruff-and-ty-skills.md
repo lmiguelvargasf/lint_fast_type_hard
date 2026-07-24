@@ -15,5 +15,3 @@ skills-lock.json
 ```
 
 Do not change any existing repository files, install Ruff or ty as Python dependencies, or run either tool.
-
-Finish by telling me to reload Cursor and open a new Agent chat so the skills can be discovered.
