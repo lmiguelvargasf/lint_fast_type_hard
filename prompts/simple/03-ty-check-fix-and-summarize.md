@@ -1,0 +1,1 @@
+Run `uvx ty check ty_demo.py`, fix the file so it passes, then summarize what changed.
