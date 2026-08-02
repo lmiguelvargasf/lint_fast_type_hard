@@ -26,7 +26,7 @@ Materials and live demos for a talk on how [Ruff](https://docs.astral.sh/ruff/),
 
 | Conference | Year | Location | Links |
 | --- | :---: | --- | --- |
-| [**PyCon Panamá**](https://pycon.pa/2025/) | 2025 | Panama City, Panama | [Website](https://pycon.pa/2025/) · [pycon.pa](https://pycon.pa/) |
+| [**PyCon Panamá**](https://pycon.pa/2025/) | 2025 | Panama City, Panama | [Website](https://pycon.pa/2025/) · [Agenda](https://pycon.pa/2025/agenda.html) |
 | [**PyTexas**](https://pytexas.org/2026/) | 2026 | Austin, Texas, USA | [Website](https://pytexas.org/2026/) · [Schedule](https://pytexas.org/2026/schedule/) · [Talks](https://pytexas.org/2026/schedule/talks/) |
 | [**PyCon Colombia**](https://2026.pycon.co/) | 2026 | Medellín, Colombia | [Website](https://2026.pycon.co/) · [Talk](https://2026.pycon.co/speakers/miguel-vargas/) |
 
